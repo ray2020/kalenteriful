@@ -33,4 +33,8 @@ pip-log.txt
 .Python
 bin
 lib
+<<<<<<< HEAD
 include
+=======
+include
+>>>>>>> Added basic rquirements.txt and updated .gitignore
