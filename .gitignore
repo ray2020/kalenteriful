@@ -30,7 +30,5 @@ pip-log.txt
 .idea
 
 # Virtualenv
-.Python
-bin
-lib
-include
+kalenterifultest
+
