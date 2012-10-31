@@ -32,3 +32,5 @@ pip-log.txt
 # Virtualenv
 kalenterifultest
 
+# Local settings file
+local_settings.py
