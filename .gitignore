@@ -34,3 +34,6 @@ kalenterifultest
 
 # Local settings file
 local_settings.py
+
+# Local SQLite files
+*.db
