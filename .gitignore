@@ -37,3 +37,7 @@ local_settings.py
 
 # Local SQLite files
 *.db
+
+# Sublime Text 2 project files
+*.sublime-project
+*.sublime-workspace
